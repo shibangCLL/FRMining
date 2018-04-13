@@ -1,0 +1,1 @@
+document.write("<span><a href=\"#\" onclick=\"openZoosUrl()\">FREE Chat Onlion<\/a><\/span>");

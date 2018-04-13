@@ -7,7 +7,7 @@ document.writeln("</script>");
 document.writeln("<div id=\"swt\" style=\"width:120px;height:255px;float:right; z-index:999;position:fixed !important; top/**/:150px; position:absolute; top:expression(offsetParent.scrollTop+400);right:0px;\"> ");
 
 document.writeln('<script language="javascript" src="http://pkt.zoosnet.net/JS/LsJS.aspx?siteid=PKT56764896&float=0&lng=en"></script>');
-document.writeln("<a href=\"javascript:void(0)\" onclick=openZoosUrl(\'chatwin\')  target=\"_self\"><img src=\"/images/swt.jpg\" border=\"0\"></a>");
+document.writeln("<a href=\"javascript:void(0)\" onclick=openZoosUrl(\'chatwin\')  target=\"_self\"><img src=\"/FRMining/images/swt.jpg\" border=\"0\"></a>");
 document.writeln('  <span class="closeBtn_swt absolute" style=\"top:-2px;right:-1px;width:30px;height:30px; position: absolute;cursor:pointer;background:url(/images/close.png) no-repeat;-webkit-background-size:100%;-moz-background-size:100%;background-size:100%\" id="closeBtn_swt" onclick="closeSwt()"></span>');
 document.writeln("</div>");
 
